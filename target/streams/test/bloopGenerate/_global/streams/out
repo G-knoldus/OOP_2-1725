@@ -1,0 +1,4 @@
+[debug] [oops2-test] Classpath dependencies List()
+[debug] [oops2-test] Dependencies from configurations List(oops2)
+[debug] Bloop wrote the configuration of project 'oops2-test' to '/home/knoldus/Documents/Knoldus_Assignments/ut_it_assign_1725/oops2/.bloop/oops2-test.json'
+[success] Generated .bloop/oops2-test.json
